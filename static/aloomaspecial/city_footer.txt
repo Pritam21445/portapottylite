@@ -1,0 +1,48 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What is your weather cancellation policy?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer a flexible weather policy. With 48 hours' notice, we can apply your full payment as a credit for a future rental. Rescheduling with less notice may incur a fee, as the unit has already been prepared and routed for delivery.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I schedule exact delivery and pickup times?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While we cannot guarantee a precise minute due to traffic, we do provide specific delivery windows (e.g., 8 AM - 12 PM) to ensure your unit arrives well before your event starts. Pickup times are flexible and can be arranged for the same evening or the following day.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What if a unit gets damaged during my event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer an optional damage waiver for a small fee that covers most accidental damage. Please report any issues immediately. This waiver does not cover intentional vandalism, theft, or units that have been tipped over.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are the chemicals you use safe?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, absolutely. We only use high-quality, non-toxic, and biodegradable deodorizing solutions that are formaldehyde-free. They are completely safe for users and the environment, and all waste is disposed of according to strict environmental regulations.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your restrooms cleaned and sanitized?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. Every single unit undergoes a rigorous, multi-point cleaning and sanitation process after each rental. We use hospital-grade disinfectants and deodorizers to ensure the unit you receive is sparkling clean and hygienic.</p>
+                <div class="callalooma mx-auto"><a href="tel:888341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
